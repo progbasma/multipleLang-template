@@ -450,3 +450,22 @@
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
   }
+
+  .text-primary {
+    color: #29a5c1 !important;
+}
+.btn-primary {
+    
+    background-color: #29a5c1!important;
+    border-color: #29a5c1!important;
+}
+
+.nav-link{
+    color: #29a5c1 !important;
+}
+.bg-primary{
+    background-color: #29a5c1!important;
+}
+:root {
+    --primary: #29a5c1!important;
+}
